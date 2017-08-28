@@ -3,8 +3,6 @@
 Manuel réalisé par Etienne Pfister, en stage de master 2 en 2017 et son tuteur Julien Guilloux, chargé de mission forêt au Parc 
 national des Ecrins.
 
-[link to Google!](http://google.com)
-
 - Ce manuel vient en complément du [manuel de l'INRA](http://www.foretsanciennes.fr/wp-content/uploads/2012/12/Fabvre-al-2011-digitalisation.pdf), qu'il convient de consulter pour avoir une vision complète du contenu des cartes d'état-major. Nous adressons nos remerciements particuliers à Jean-Luc Dupouey de l'INRA Nancy et à Alain Gervaise, en charge du produit BD Carto® Historique état-major à l'IGN.
 
 - Ce manuel s'intéresse aux aspects techniques de la numérisation des cartes d'état-major avec [QGIS](https://www.qgis.org). La version 
@@ -13,9 +11,7 @@ semi-automatique en utilisant le plugin [Historical Map](https://github.com/lenn
 plugin soient grandement remerciés : sans l’aide précieuse et les conseils de [Nicolas Karasiak](https://github.com/lennepkade), 
 ce travail n’aurait certainement pas été possible. 
 
-- Le plugin Historical Map est issu des travaux techniques de Pierre-Alexis Herrault, David Sheeren, Mathieu Fauvel et Martin Paegelow,  
-résumé dans l'article Vectorisation automatique des forêts dans les minutes de la carte d’Etat-Major du 19e siècle. 
-Revue Internationale de Géomatique, Lavoisier, 2015, 25 (1), pp.35-51. 
+- Le plugin Historical Map est issu des travaux techniques de Pierre-Alexis Herrault, David Sheeren, Mathieu Fauvel et Martin Paegelow, résumé dans l'article "Vectorisation automatique des forêts dans les minutes de la carte d’Etat-Major du 19e siècle", publié dans la Revue Internationale de Géomatique, Lavoisier, 2015, 25 (1), pp.35-51. 
 Article disponible sur le [portail HAL de l'Université Toulouse 2 - Jean Jaurès](https://hal-univ-tlse2.archives-ouvertes.fr/hal-01513411/document)
 
 - La méthode présentée dans ce manuel se limite à la vectorisation de la classe d'occupation du sol « forêt ». En effet, ce manuel 

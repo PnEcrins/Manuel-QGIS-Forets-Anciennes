@@ -1,4 +1,4 @@
-* MANUEL QGIS POUR LA VECTORISATION DE L’USAGE DES SOLS ET LE GEOREFERENCEMENT DES MINUTES 1:40 000 DE LA CARTE D’ETAT-MAJOR
+# MANUEL QGIS POUR LA VECTORISATION DE L’USAGE DES SOLS ET LE GEOREFERENCEMENT DES MINUTES 1:40 000 DE LA CARTE D’ETAT-MAJOR
 
 Manuel réalisé par Etienne Pfister, en stage de master 2 en 2017 et son tuteur Julien Guilloux, chargé de mission forêt au Parc 
 national des Ecrins.
@@ -28,3 +28,4 @@ digitalisation de la carte d’état-major dans diverses régions de France. Nou
 sur les difficultés rencontrées avec cette méthode QGIS. De même, les avancés de QGIS (nouvelles versions, amélioration des fonctions etc.)
 pourraient rendre certains traitements encore plus faciles.
 
+Les 2 modèles cités dans le manuel (chapitre 5) sont disponbibles en téléchargement dans le répertoire MODELS (https://github.com/PnEcrins/Manuel-QGIS-Forets-Anciennes/tree/master/MODELS). Merci à Nicolas Karasiak [https://github.com/lennepkade] pour la mise à disposition de ces modèles. 
